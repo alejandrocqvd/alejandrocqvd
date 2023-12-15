@@ -20,6 +20,6 @@ $ cat currently_learning.txt
     -> C++
     -> Unreal Engine 5
     -> TypeScript
-    -> Classico - Tenacious D on Guitar
+    -> Classico by Tenacious D on Guitar
 
 $ logout
