@@ -1,5 +1,3 @@
-# hi
-
 ```bash
 $ ./welcome_message.sh
 "Hi, I'm Alejandro :0"
