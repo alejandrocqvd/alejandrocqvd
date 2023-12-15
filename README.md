@@ -18,7 +18,7 @@ OTHER
 
 $ cat contact.txt
 GET IN TOUCH :D
-    -> LinkedIn: [alejandrocqvd]
+    -> LinkedIn: [alejandro-cardona-023282264]
     -> Discord: [alejandrocqvd]
     -> Twitter: [alejandrocqvd]
     -> Instagram: [guess]
