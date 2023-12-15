@@ -10,17 +10,16 @@ I also like cats
 
 $ cat skills.txt
 LANGUAGES
-    -> SQL, C, HTML, CSS, JavaScript, TypeScript, Java, Python, Assembly
+    -> SQL, C, HTML, CSS, JavaScript, Java, Python, Assembly
 LIBRARIES & FRAMEWORKS
     -> React, TailwindCSS, NumPy, Express
 OTHER
     -> I know one (1) song on bass
 
-$ cat contact.txt
-GET IN TOUCH :D
-    -> LinkedIn: [alejandro-cardona-023282264]
-    -> Discord: [alejandrocqvd]
-    -> Twitter: [alejandrocqvd]
-    -> Instagram: [guess]
+$ cat currently_learning.txt
+    -> C++
+    -> Unreal Engine 5
+    -> TypeScript
+    -> Classico - Tenacious D on Guitar
 
 $ logout
