@@ -5,7 +5,7 @@ $ ./welcome_message.sh
 "Hi, I'm Alejandro :0"
 
 $ cat about_me.txt
-I deleted my old readme but I kinda like this one better
+So I accidentally deleted my old readme but I kinda like this one better
 I also like cats
 
 $ cat skills.txt
