@@ -8,9 +8,9 @@ I also like cats idk
 
 $ cat skills.txt
 LANGUAGES
-    -> SQL, C, HTML, CSS, JavaScript, Java, Python, Assembly
+    -> Assembly, C, CSS, HTML, Java, JavaScript, Python, SQL, TypeScript
 LIBRARIES & FRAMEWORKS
-    -> React, TailwindCSS, NumPy, Express
+    -> Express.js, NextJS, NumPy, React, TailwindCSS
 OTHER
     -> I know one (1) song on bass
 
@@ -18,6 +18,6 @@ $ cat currently_learning.txt
     -> C++
     -> Unreal Engine 5
     -> TypeScript
-    -> Classico by Tenacious D on Guitar
+    -> Hayloft on my broken Squier guitar
 
 $ logout
