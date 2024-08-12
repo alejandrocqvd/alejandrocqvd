@@ -11,7 +11,8 @@ Libraries and Frameworks
     -> Express.js, NextJS, NumPy, React, TailwindCSS, Encore
 Other
     -> I know one (1) song on bass
-Currently Learning
+
+CURRENTLY LEARNING
     -> C++
     -> Unreal Engine 5
     -> TypeScript
