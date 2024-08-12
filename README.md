@@ -1,23 +1,17 @@
 ```bash
-$ ./welcome_message.sh
-"Hi, I'm Alejandro :0"
+Hi, I'm Alejandro :0
 
-$ cat about_me.txt
 So I accidentally deleted my old readme but I kinda like this one better
 I also like cats idk
 
-$ cat skills.txt
-LANGUAGES
-    -> Assembly, C, CSS, HTML, Java, JavaScript, Python, SQL, TypeScript
-LIBRARIES & FRAMEWORKS
-    -> Express.js, NextJS, NumPy, React, TailwindCSS
-OTHER
+MY SKILLS:
+Languages
+    -> Assembly, C, CSS, HTML, Java, JavaScript, Python, SQL, TypeScript, GO
+Libraries and Frameworks
+    -> Express.js, NextJS, NumPy, React, TailwindCSS, Encore
+Other
     -> I know one (1) song on bass
-
-$ cat currently_learning.txt
+Currently Learning
     -> C++
     -> Unreal Engine 5
     -> TypeScript
-    -> Hayloft on my broken Squier guitar
-
-$ logout
